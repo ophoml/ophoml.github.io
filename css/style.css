@@ -1,7 +1,6 @@
  body img {
   background-image: url(images/peaceofmind.png);
   background-repeat: no-repeat;
-  background-size: cover;
-  width: 100px;
-  height: 100px;
+  background-size: contain;
+  
 }
