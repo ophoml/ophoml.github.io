@@ -1,17 +1,10 @@
 .container1 {
-  background-image: url("../images/portfolioImage.jpg");
+  background-image: url("../images/mothercorn.jpg");
   background-repeat:no-repeat;
   background-size:contain;
   height: 630px;
   width: 1500px;
 }
-
-
-}
-
-h1 {
-  padding-top: 40px;
-  color: red;
 
 h1 {
   padding-top: 40px;
