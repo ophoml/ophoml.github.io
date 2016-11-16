@@ -1,6 +1,8 @@
- body img {
-  background-image: url(images/portfolioImage.jpg);
+.container1 {
+  background-image: url("../images/portfolioImage.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 
 }
