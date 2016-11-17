@@ -7,6 +7,27 @@ body {
 }
 
 h1 {
-  padding-top: 40px;
-  color: turquoise;
+  color: white;
+}
+
+.container1 img{
+  padding-left: 457px;
+}
+
+h1, h2{
+  text-align: center;
+  color: white;
+}
+
+.container.about {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.secondPage {
+  padding-top: 120px;
+}
+
+.container1 h1{
+  padding-top: 50px;
 }
