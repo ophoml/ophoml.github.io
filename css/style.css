@@ -1,7 +1,7 @@
 body {
   background-image: url("../images/rug.jpg");
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size:cover;
   height: 630px;
   width: 1500px;
 }
