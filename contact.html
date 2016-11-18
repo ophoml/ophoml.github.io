@@ -30,11 +30,37 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="page-header">
-        <h1>Contact Me</h1>
-      </div>
+  <div class="thirdPage">
+    <div class="container contact">
+
+     <div class="page-header">
+       <h1>Wanna contact me?</h1>
+       <h2>Fill out the form below</h2>
+     </div>
+
+     <form class="email-form" method="POST"
+     action="https://formspree.io/@gmail.com">
+       <div class="form-group">
+         <label>Return Email</label>
+         <input type="email" class="form-control" name="_replyto"
+         placeholder="example@gmail.com">
+       </div>
+       <div class="form-group">
+         <label>Subject</label>
+         <input type="text" class="form-control" name="_subject"
+         placeholder="I need a website">
+       </div>
+       <div class="form-group">
+         <label>Message</label>
+         <textarea class="form-control" name="message" rows="4"></textarea>
+       </div>
+
+       <button class="btn btn-primary btn-block" type="submit">Send</button>
+
+      </form>
+
     </div>
+  </div>
 
     <script src="js/jquery-3.1.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
